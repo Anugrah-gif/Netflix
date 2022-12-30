@@ -1,0 +1,14 @@
+.poster
+{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.post
+{
+    width: 300px;
+    height: 300px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+}
